@@ -1,2 +1,2 @@
-# innovation
-The Innovation Hub website is a dynamic platform designed to streamline collaboration and productivity within teams. Utilizing HTML, CSS, and Bootstrap, it offers a sleek and intuitive interface for navigating various team functions.
+Screenshots
+![Screenshot 2024-03-06 025658](https://github.com/Prakhar574/InnovationHub/assets/114691344/ccf51cca-3262-4322-beb3-2d0eaf179b18)
